@@ -1,0 +1,11 @@
+#browser_info
+#chrome/firefox/ie 
+browser=firefox
+URI=https://staging.therapbd.net/auth/login
+#user_info
+loginName=super_admin
+password=therap
+provideCode=MPC-CA
+
+
+#end_of_file

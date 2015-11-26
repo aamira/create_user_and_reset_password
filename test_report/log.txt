@@ -1,0 +1,2 @@
+2015-11-26 16:18:04 +0600 loginName: super_admin Error creating user: {:firstName=> lomira,:lastName=> lomira,:userInitial=> dlk,:loginName=> l51,:title=> test}"US/Alaska" not found in select list
+2015-11-26 16:18:09 +0600 loginName: super_admin Error creating user: {:firstName=> lomira,:lastName=> lomira,:userInitial=> 234.0,:loginName=> ,:title=> test}loginName: Requiredunable to locate element, using {:name=>"Save", :tag_name=>"button"}

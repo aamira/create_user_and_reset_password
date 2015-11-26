@@ -1,0 +1,7 @@
+#possible file_type = .xlsx
+source_file_path=D:\Aptana\watirPractice\testt.xlsx
+start_from_line_no=2
+
+
+
+#end_of_file
